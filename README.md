@@ -1,20 +1,4 @@
-# OPENING--AND-CLOSING
-## Aim
-To implement Opening and Closing using Python and OpenCV.
 
-## Software Required
-1. Anaconda - Python 3.7
-2. OpenCV
-## Algorithm:
-### Step1:
-<br>
-
-
-### Step2:
-<br>
-
-### Step3:
-<br># OPENING--AND-CLOSING
 ## Aim
 To implement Opening and Closing using Python and OpenCV.
 
